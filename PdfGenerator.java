@@ -16,7 +16,7 @@ import java.io.FileOutputStream;
 
 /**
  *
- * @author Rajiv Pathak
+ * @author The Robust Coder
  */
 public class PdfGenerator {
 
